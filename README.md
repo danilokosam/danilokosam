@@ -9,7 +9,10 @@ Hello, my name is **Daniel Alejandro Duarte Vargas**. I'm a passionate **24-year
 I'm currently focused on becoming a versatile **full-stack developer**, with a solid understanding of both front-end and back-end technologies. I'm excited about taking on new challenges and contributing to a team.
 
 <div align="left">
+  <img alt="Discord User" src="https://img.shields.io/badge/danilokosam-5865F2?logo=discord&logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danilokosam.danilokosam&"  />
+  <img alt="Github Followers" src="https://img.shields.io/github/followers/danilokosam?style=social" class="inline-block mx-1" style="margin: 0px 2px;">
+  <img alt="Github Stars" src="https://img.shields.io/github/stars/danilokosam?style=social" class="inline-block mx-1" style="margin: 0px 2px;">
 </div>
 
 ###
@@ -52,6 +55,8 @@ I'm currently focused on becoming a versatile **full-stack developer**, with a s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
