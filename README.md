@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<img align="right" width="27%" src="/25470495-288f-4824-9cf9-e69f0499dc38-removebg-preview.png" />
 
 ###
 
