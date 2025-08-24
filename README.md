@@ -3,7 +3,9 @@
 
 ###
 
-Hello, my name is **Daniel Alejandro Duarte Vargas**. I'm a **24-year-old programmer** with three years of experience, and I **live in Alcalá de Henares**.
+Hello, my name is **Daniel Alejandro Duarte Vargas**. I'm a passionate **24-year-old programmer** with three years of experience, and I **live in Alcalá de Henares**. I'm a fast and constant learner, always seeking to improve my skills.
+
+I'm currently focused on becoming a versatile **full-stack developer**, with a solid understanding of both front-end and back-end technologies. I'm excited about taking on new challenges and contributing to a team.
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danilokosam.danilokosam&"  />
